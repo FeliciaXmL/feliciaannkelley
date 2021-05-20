@@ -30,7 +30,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: 'Felicia Ann Kelley '
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
