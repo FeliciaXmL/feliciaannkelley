@@ -55,7 +55,7 @@ seo:
     - name: 'twitter:title'
       value: OG Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: The preview of the OG theme
     - name: 'twitter:image'
       value: /images/1618911902564.png
       relativeUrl: true
