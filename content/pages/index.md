@@ -44,7 +44,7 @@ seo:
       value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: The preview of the OG theme
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
