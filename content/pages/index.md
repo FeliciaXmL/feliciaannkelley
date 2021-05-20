@@ -47,7 +47,7 @@ seo:
       value: The preview of the OG theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/smiling-broccoli.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
