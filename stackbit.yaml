@@ -164,7 +164,8 @@ models:
         models:
           - footer
         required: true
-        description: F
+        description: FAK
+        readOnly: true
     file: config.js
     singleInstance: true
   header:
