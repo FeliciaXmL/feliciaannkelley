@@ -388,6 +388,7 @@ models:
         name: title
         label: Title
         description: The title of the section.
+        required: true
       - type: string
         name: section_id
         label: Element ID
