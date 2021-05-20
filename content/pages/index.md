@@ -31,9 +31,10 @@ sections:
         style: button
 seo:
   title: Felicia Ann Kelley - OG Theme
-  description: >
+  description: >+
     The preview of the Fresh theme Built from many talent developers and myself.
-    Stackbit, Netlify, Github, Bit.dev, Devto, 
+    Stackbit, Netlify, Github, Bit.Dev, Devto, 
+
   extra:
     - name: 'og:type'
       value: website
