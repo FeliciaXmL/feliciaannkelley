@@ -163,6 +163,7 @@ models:
         label: Footer Configuration
         models:
           - footer
+        required: true
     file: config.js
     singleInstance: true
   header:
