@@ -163,7 +163,7 @@ models:
         label: Footer Configuration
         models:
           - footer
-    file: ''
+    file: config.json
     singleInstance: true
   header:
     type: object
