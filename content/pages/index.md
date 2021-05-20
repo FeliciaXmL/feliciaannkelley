@@ -30,7 +30,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: 'Felicia Ann Kelley '
+  title: Felicia Ann Kelley - OG Theme
   description: >-
     The preview of the Fresh theme Built from many talent developers and myself.
     Stackbit, Netlify, Github, Bit.dev, Devto, 
