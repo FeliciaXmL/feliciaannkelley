@@ -41,7 +41,7 @@ seo:
       value: 'https://000621034.codepen.website'
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: OG Theme
       keyName: property
     - name: 'og:description'
       value: The preview of the OG theme
