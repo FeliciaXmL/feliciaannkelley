@@ -38,7 +38,7 @@ seo:
 
   extra:
     - name: 'og:type'
-      value: website
+      value: 'https://000621034.codepen.website'
       keyName: property
     - name: 'og:title'
       value: Stackbit Fresh Theme
