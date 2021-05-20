@@ -267,7 +267,7 @@ models:
           models:
             - section_content
             - section_form
-            - section_hero
+            - section_Felicia Ann Kelley
             - section_posts
       - type: model
         name: seo
@@ -380,7 +380,7 @@ models:
         description: >-
           A unique identifier that can be used when linking to this section.
           Must not contain whitespace.
-  section_hero:
+  section_Felicia Ann Kelley:
     type: object
     label: Hero Section
     fields:
