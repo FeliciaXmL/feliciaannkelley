@@ -1,6 +1,6 @@
 ---
 title: Contact Felicia Ann Kelley
-hide_title: false
+hide_title: true
 sections:
   - section_id: contact-form
     type: section_form
