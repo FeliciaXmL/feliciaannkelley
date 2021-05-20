@@ -382,7 +382,7 @@ models:
           Must not contain whitespace.
   section_Felicia Ann Kelley:
     type: object
-    label: Hero Section
+    label: Felicia.Kelley.1675
     fields:
       - type: string
         name: title
