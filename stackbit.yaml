@@ -163,7 +163,6 @@ models:
         label: Footer Configuration
         models:
           - footer
-        required: true
         description: FAK
     file: config.js
     singleInstance: true
