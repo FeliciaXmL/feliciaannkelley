@@ -164,7 +164,7 @@ models:
         models:
           - footer
         required: true
-        hidden: true
+        description: F
     file: config.js
     singleInstance: true
   header:
