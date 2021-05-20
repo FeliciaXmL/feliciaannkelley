@@ -20,7 +20,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-    image_alt: Felicia
+    image_alt: Felicia.Kelley.1675
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
