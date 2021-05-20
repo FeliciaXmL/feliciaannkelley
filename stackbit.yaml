@@ -165,7 +165,6 @@ models:
           - footer
         required: true
         hidden: true
-        readOnly: true
     file: config.js
     singleInstance: true
   header:
